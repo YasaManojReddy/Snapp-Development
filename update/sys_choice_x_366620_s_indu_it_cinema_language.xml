@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="language" table="x_366620_s_indu_it_cinema" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>English</label>
+            <language>en</language>
+            <name>x_366620_s_indu_it_cinema</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:39:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6120b98378e3300cdae7e5004990e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:39:40</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hindi</label>
+            <language>en</language>
+            <name>x_366620_s_indu_it_cinema</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:39:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e228f98378e3300cdae7e5004990e6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:39:50</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>language</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Telugu</label>
+            <language>en</language>
+            <name>x_366620_s_indu_it_cinema</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:40:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8324f98378e3300cdae7e5004990ecb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:40:00</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>language</element>
+            <name>x_366620_s_indu_it_cinema</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:39:40</sys_created_on>
+            <sys_id>a6220b98378e3300cdae7e5004990eab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>language</sys_name>
+            <sys_package display_value="S Indu_it" source="x_366620_s_indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="S Indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_scope>
+            <sys_update_name>sys_choice_x_366620_s_indu_it_cinema_language</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:39:40</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

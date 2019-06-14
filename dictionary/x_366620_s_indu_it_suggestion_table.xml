@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="suggestion table" max_length="40" name="x_366620_s_indu_it_suggestion_table" type="collection">
+        <element label="email" max_length="50" name="email" type="string"/>
+        <element label="name" max_length="50" name="name" type="string"/>
+        <element label="roll num" max_length="50" name="roll_num" type="string"/>
+    </element>
+</database>

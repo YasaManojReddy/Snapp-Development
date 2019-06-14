@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="incident_log" max_length="40" name="x_366620_s_indu_it_incident_log" type="collection">
+        <element default="default" label="servicenow" max_length="50" name="servicenow" type="string"/>
+        <element default="test default" label="sIndu_short_desc" max_length="50" name="sindu_short_desc" type="string"/>
+    </element>
+</database>

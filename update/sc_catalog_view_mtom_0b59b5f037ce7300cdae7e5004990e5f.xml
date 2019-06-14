@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="sIndu ">d129f57837ca7300cdae7e5004990e52</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 17:38:33</sys_created_on>
+        <sys_id>0b59b5f037ce7300cdae7e5004990e5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sIndu .catalog_sindu_</sys_name>
+        <sys_package display_value="S Indu_it" source="x_366620_s_indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_sindu_">8b59b5f037ce7300cdae7e5004990e5e</sys_portal_page>
+        <sys_scope display_value="S Indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_0b59b5f037ce7300cdae7e5004990e5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 17:38:33</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

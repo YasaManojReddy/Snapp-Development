@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="logincident" max_length="40" name="x_366620_s_indu_it_logincident" sizeclass="1" type="collection">
+        <element label="affected user" max_length="32" name="affected_user" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element choice="3" label="Contact 2" max_length="10" name="contact_2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email" value="email"/>
+                <element inactive_on_update="false" label="mobile" value="mobile num"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="ret date" max_length="40" name="date_time_1" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="req date" max_length="40" name="date_time_2" type="glide_date_time"/>
+        <element choice="1" label="incident contact type" max_length="100" name="incident_contact_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="mobile no"/>
+            </choice>
+        </element>
+        <element label="observation" max_length="100" name="observation" type="journal"/>
+        <element default="Default val" label="service" max_length="50" name="service" type="string"/>
+        <element default="default" label="sIndu_short_desc" max_length="50" name="sindu_short_desc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="end Date" max_length="40" name="u_glide_date_4" type="glide_date"/>
+        <element label="New Time" max_length="40" name="u_glide_time_3" type="glide_time"/>
+        <element label="Reference" max_length="32" name="u_reference_2" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="start date" max_length="40" name="u_start_date" type="glide_date"/>
+    </element>
+</database>

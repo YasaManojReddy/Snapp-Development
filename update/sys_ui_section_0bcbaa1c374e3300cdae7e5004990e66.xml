@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="user info" section_id="0bcbaa1c374e3300cdae7e5004990e66" sys_domain="global" table="x_366620_s_indu_it_logincident" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_reference_2</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:07:56</sys_created_on>
+            <sys_id>762dea5c374e3300cdae7e5004990ec3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="user info" display_value="user info" name="x_366620_s_indu_it_logincident" sys_domain="global" view="Default view">0bcbaa1c374e3300cdae7e5004990e66</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:07:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_domain</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:07:56</sys_created_on>
+            <sys_id>f62dea5c374e3300cdae7e5004990ec3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="user info" display_value="user info" name="x_366620_s_indu_it_logincident" sys_domain="global" view="Default view">0bcbaa1c374e3300cdae7e5004990e66</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:07:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:07:56</sys_created_on>
+            <sys_id>7a2dea5c374e3300cdae7e5004990ec3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="user info" display_value="user info" name="x_366620_s_indu_it_logincident" sys_domain="global" view="Default view">0bcbaa1c374e3300cdae7e5004990e66</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:07:56</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:07:56</sys_created_on>
+            <sys_id>fa2dea5c374e3300cdae7e5004990ec3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="user info" display_value="user info" name="x_366620_s_indu_it_logincident" sys_domain="global" view="Default view">0bcbaa1c374e3300cdae7e5004990e66</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:07:56</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>user info</caption>
+            <header>false</header>
+            <name>x_366620_s_indu_it_logincident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:01:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bcbaa1c374e3300cdae7e5004990e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>user info</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="S Indu_it" source="x_366620_s_indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="S Indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_scope>
+            <sys_update_name>sys_ui_section_0bcbaa1c374e3300cdae7e5004990e66</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:01:57</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

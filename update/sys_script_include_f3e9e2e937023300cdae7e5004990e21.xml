@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_366620_s_indu_it.HelloWorld</api_name>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>HelloWorld</name>
+        <script><![CDATA[var HelloWorld = Class.create();
+HelloWorld.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+sendResponse:function()
+	{
+		var uname;
+		var usrid= this.getParameter('user_name');
+		var usr= new GlideRecord('sys_user');
+		usr.get(usrid);
+		usr.query();
+		if(usr.next())
+			{
+				uname=usr.name;
+			}
+	   return "Hello " +"+uname"+" "+"today's date is"+" "+new GlideDateTime().getDisplayValue();  
+	} ,
+  
+	
+	
+	
+   type: 'HelloWorld'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-15 05:08:57</sys_created_on>
+        <sys_id>f3e9e2e937023300cdae7e5004990e21</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>HelloWorld</sys_name>
+        <sys_package display_value="S Indu_it" source="x_366620_s_indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="S Indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_scope>
+        <sys_update_name>sys_script_include_f3e9e2e937023300cdae7e5004990e21</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-15 05:48:56</sys_updated_on>
+    </sys_script_include>
+</record_update>

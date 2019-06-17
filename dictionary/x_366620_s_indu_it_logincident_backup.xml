@@ -5,7 +5,11 @@
         <element label="short description" max_length="50" name="short_description" type="string"/>
         <element label="start date" max_length="40" name="start_date" type="glide_date"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="referred to" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
         <index name="index">
+            <element name="u_reference_1"/>
+        </index>
+        <index name="index2">
             <element name="sys_class_name"/>
         </index>
     </element>

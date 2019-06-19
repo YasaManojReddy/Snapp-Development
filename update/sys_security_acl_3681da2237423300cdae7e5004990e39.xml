@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition table="x_366620_s_indu_it_acl_testings">short_descLIKESubmit^EQ<item endquery="false" field="short_desc" goto="false" newquery="false" operator="LIKE" or="false" value="Submit"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>Default access control on x_366620_s_indu_it_acl_testings</description>
+        <name>x_366620_s_indu_it_acl_testings</name>
+        <operation display_value="delete">delete</operation>
+        <script><![CDATA[var currentUser= gs.getUser();
+answer= currentUser.isMemberOf("hardware");]]></script>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-18 05:53:35</sys_created_on>
+        <sys_id>3681da2237423300cdae7e5004990e39</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_366620_s_indu_it_acl_testings</sys_name>
+        <sys_package display_value="S Indu_it" source="x_366620_s_indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="S Indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_scope>
+        <sys_update_name>sys_security_acl_3681da2237423300cdae7e5004990e39</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-18 08:21:04</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

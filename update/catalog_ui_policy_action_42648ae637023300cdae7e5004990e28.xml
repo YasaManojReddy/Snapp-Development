@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="sales laptop">4d6213ec370a7300cdae7e5004990ec1</catalog_item>
+        <catalog_variable>IO:6ee45360374a7300cdae7e5004990ec7</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-18 04:56:51</sys_created_on>
+        <sys_id>42648ae637023300cdae7e5004990e28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Additional_software_requirements</sys_name>
+        <sys_package display_value="S Indu_it" source="x_366620_s_indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="S Indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_42648ae637023300cdae7e5004990e28</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-18 04:56:51</sys_updated_on>
+        <table/>
+        <ui_policy display_value="catalog ui policy generated ">ae0446e637023300cdae7e5004990e09</ui_policy>
+        <variable>Additional_software_requirements</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

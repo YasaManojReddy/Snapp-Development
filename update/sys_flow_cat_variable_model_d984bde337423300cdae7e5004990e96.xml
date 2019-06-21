@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>1584bde337423300cdae7e5004990e96</id>
+        <name>SICET</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 06:20:41</sys_created_on>
+        <sys_id>d984bde337423300cdae7e5004990e96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SICET</sys_name>
+        <sys_package display_value="S Indu_it" source="x_366620_s_indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="S Indu_it">bcdbb91c37ca3300cdae7e5004990e61</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_d984bde337423300cdae7e5004990e96</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:20:41</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
